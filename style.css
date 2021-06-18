@@ -1,0 +1,30 @@
+body {background-color:white}
+h2{
+    color: white;
+}
+p {
+    color:white
+}
+h6 {border:1px solid transparent;background-color:white; text-align:center;border-radius:50px;padding:5px}
+#sedansb{color:#cc8e16ff;}
+
+#suvb{color:#1e5240ff;}
+
+#Luxuryb{color:#094858ff;}
+
+div.Sedans {width:100px;border-radius:3px;
+    float:left; 
+    background-color:#cc8e16ff;
+    padding:5px;	      }
+    
+div.Luxury {width: 100px ;border-radius:3px;
+    float:left;
+    margin-left:0px;
+    background-color:#094858ff;
+    padding:5px;	      
+}
+div.Suv {width:100px;
+    float:left;
+    background-color:#1e5240ff;
+    padding:5px;	      
+}
